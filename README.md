@@ -1,28 +1,18 @@
 <div align="center">
 
-# Satyajeet Suresh Jadhav
+<h1>Satyajeet Suresh Jadhav</h1>
 
-### Application Development & Software Engineering
+<h3>Application Development &amp; Software Engineering</h3>
 
-**Final-year B.Tech (CSE – Artificial Intelligence & Analytics) · MIT School of Computing, MIT ADT University · Pune, India**
+<p><b>Final-year B.Tech (CSE – Artificial Intelligence &amp; Analytics) · MIT School of Computing, MIT ADT University · Pune, India</b></p>
 
-I build full-stack applications, REST API backends, and AI-integrated data pipelines, from design through deployment and user testing.
+<p>I build full-stack applications, REST API backends, and AI-integrated data pipelines, from design through deployment and user testing.</p>
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/satyajeet-jadhav-892a76366)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
-
-](https://github.com/satyajeetj10)
-[
-
-![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
-
-](mailto:Satyajeetjadhav921@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/satyajeet-jadhav-892a76366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/satyajeetj10"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:Satyajeetjadhav921@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
@@ -42,102 +32,45 @@ I'm a final-year B.Tech student specializing in AI & Analytics, with hands-on ex
 
 ## Technical Stack
 
-| Category | Technologies |
-| :-- | :-- |
-| **Languages** | 
+<p><b>Languages</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p><b>Frontend</b><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+</p>
 
- 
+<p><b>Backend &amp; APIs</b><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square" alt="REST APIs">
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<p><b>Databases</b><br>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
 
- 
+<p><b>Cloud &amp; DevOps</b><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
- 
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
- 
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
- |
-| **Frontend** | 
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
- 
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
- |
-| **Backend & APIs** | 
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
- 
-
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
- 
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
- 
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
- 
-
-![REST](https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square)
-
- |
-| **Databases** | 
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
- 
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
- |
-| **Cloud & DevOps** | 
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
- 
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
- 
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
- 
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
- 
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
- |
-| **Data & Analytics** | 
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
- 
-
-![ETL](https://img.shields.io/badge/ETL_Pipelines-0F172A?style=flat-square)
-
- 
-
-![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-
- |
+<p><b>Data &amp; Analytics</b><br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/ETL_Pipelines-0F172A?style=flat-square" alt="ETL Pipelines">
+<img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="MS Office">
+</p>
 
 ---
 
@@ -222,31 +155,19 @@ A data-intensive application that ingests live stock APIs, news feeds, and socia
 
 ## GitHub Stats
 
-<div align="center">
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyajeetj10&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=satyajeetj10&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Satyajeet Jadhav's GitHub Stats">
+</p>
 
 ---
 
 <div align="center">
 
-### Open to application development and software engineering opportunities
+<h3>Open to application development and software engineering opportunities</h3>
 
-[
-
-![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/satyajeet-jadhav-892a76366)
-[
-
-![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:Satyajeetjadhav921@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/satyajeet-jadhav-892a76366"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+<a href="mailto:Satyajeetjadhav921@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"></a>
+</p>
 
 </div>
